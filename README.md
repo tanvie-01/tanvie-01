@@ -10,7 +10,6 @@ Final-year CSE student at IIUC · *Turning data into insights. Building what mat
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B3D91?style=for-the-badge)](https://tanbirportfolio03.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tanbir-hossain-shehab-4b4732436)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirhossenshehab03@gmail.com)
-[![CV](https://img.shields.io/badge/CV-Download-2D7A44?style=for-the-badge)](https://tanbirportfolio03.vercel.app/downloads/Md-Tanbir-Hossain-Shehab-CV.pdf)
 
 </div>
 
